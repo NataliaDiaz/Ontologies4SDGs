@@ -15,7 +15,10 @@ This material is supported by:
 
 Participant Courses on Symbolic AI and Knowledge Engineering:
 
-- IA301 Institut Polytechnique Paris 
+- IA301 - Logique et IA Symbolique - Logics and Symbolic AI.  Institut Polytechnique Paris
+  
+  https://perso.telecom-paristech.fr/bloch/OptionIA/Logics-SymbolicAI.html
+ 
 
 Course Material: https://github.com/NataliaDiaz/PostersAndPresentations/tree/master/teaching/Symbolic%20AI%20and%20Description%20Logics
 
